@@ -1,0 +1,135 @@
+    1  '/c/Users/Handy Claude/Desktop/ILSL=10 HANDY/shell script.txt'
+    2  cd Desktop
+    3  cd ILSL=10 HANDY
+    4  cd ILSL=10HANDY
+    5  cd ILS10
+    6  ls
+    7  x=1
+    8  while [ $x -le 100 ]; do   python ILS_COORIGIDO.py;   x=$(( $x + 1 )); done
+    9  python testes.py
+   10  python tempo.py
+   11  '/c/Users/Handy Claude/Desktop/ILS10/shell script.txt'
+   12  '/c/Users/Handy Claude/Desktop/ILS10/shell script.txt'
+   13  '/c/Users/Handy Claude/Desktop/ILS10/shell script.txt'
+   14  '/c/Users/Handy Claude/Desktop/ILS10/shell script.txt'
+   15  '/c/Users/Handy Claude/Desktop/ILS10/shellscript.txt'
+   16  '/c/Users/Handy Claude/Desktop/ILS10/shellscript.txt'
+   17  cd Desktop
+   18  cd Desktop
+   19  cd ILS10
+   20  ls
+   21  cd shellscript
+   22  x=1
+   23  while [$x -le 10]; do   python ILS_COORIGIDO.py;   x=$(( $x + 1 )); done
+   24  python testes.py
+   25  python tempo.py
+   26  x=1
+   27  while [$x -le 10]; do   python ILS_COORIGIDO.py;   x=$(( $x + 1 )); done
+   28  python testes.py
+   29  python tempo.py
+   30  cd Desktop
+   31  cd ILS15
+   32  ls
+   33  cd Desktop
+   34  ls
+   35  cd Desktop
+   36  cd ILS10
+   37  ls
+   38  python3 new_ILS.py
+   39  python new_ILS.py
+   40  python new_ILS.py
+   41  python3 new_ILS.py
+   42  ls
+   43  ls -a
+   44  ls ..
+   45  pwd
+   46  ls
+   47  cd Desktop/
+   48  pwd
+   49  cd ..
+   50  cd Desktop/
+   51  cd ~
+   52  cd Desktop/
+   53  mkdir Comandos
+   54  ls
+   55  cd Comados/
+   56  cd Comandos/
+   57  mkdir pasta nova
+   58  ls
+   59  mkdir "pasta nova"
+   60  ls
+   61  mkdir -p new/old
+   62  ls
+   63  ls new
+   64  rm -r nova pasta
+   65  ls
+   66  ls new
+   67  ls old
+   68  rm -r new
+   69  ls
+   70  mv 'pasta nova' pasta_nova
+   71  ls
+   72  ls pasta_nova
+   73  mkdir new
+   74  ls
+   75  mv new pasta_nova/
+   76  ls
+   77  ls pasta_nova/
+   78  cd ..
+   79  touch arquivo.txt
+   80  ls
+   81  cd Comandos/
+   82  touch arquivo.txt
+   83  ls
+   84  cp arquivo.txt pasta_nova/
+   85  ls
+   86  ls pasta_nova/
+   87  echo 'mensagem' > comando.txt
+   88  cat comando.txt
+   89  cat > comando.txt
+   90  cat comando.txt
+   91  cat >> comando.txt
+   92  cat comando.txt
+   93  clear
+   94  history
+   95  clear
+   96  git config --global user.name 'Handy Milliance'
+   97  git config --global user.email 'milliance23@gmail.com'
+   98  git config user.name
+   99  git config user.email
+  100  cd Desktop/
+  101  cd ..
+  102  cd .
+  103  cd
+  104  cd Desktop/
+  105  mkdir Curso_Git
+  106  cd Curso_Git/
+  107  git config user.name
+  108  git init
+  109  git status
+  110  echo '#Aprendendo usar o Git' > readme.md
+  111  git status
+  112  git add read.me
+  113  git add readme.md
+  114  git status
+  115  git commit -m 'Commit inicial'
+  116  git status
+  117  echo '##Aula 1' >> readme.md
+  118  git status
+  119  echo 'Handy Milliance' > participantes.txt
+  120  git status
+  121  git add .
+  122  git status
+  123  git restore --staged participantes.txt
+  124  git status
+  125  git status
+  126  git add participantes.txt
+  127  git status
+  128  git restore --staged .
+  129  git status
+  130  git commit -am 'Alteracao no readme'
+  131  git status
+  132  git add participantes.txt
+  133  git status
+  134  git commit -m 'Adicionado participantes.txt'
+  135  history > Aula_3.txt
