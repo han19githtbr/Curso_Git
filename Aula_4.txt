@@ -1,0 +1,107 @@
+    1  '/c/Users/Handy Claude/Desktop/ILSL=10 HANDY/shell script.txt'
+    2  cd Desktop
+    3  cd ILSL=10 HANDY
+    4  cd ILSL=10HANDY
+    5  cd ILS10
+    6  ls
+    7  x=1
+    8  while [ $x -le 100 ]; do   python ILS_COORIGIDO.py;   x=$(( $x + 1 )); done
+    9  python testes.py
+   10  python tempo.py
+   11  '/c/Users/Handy Claude/Desktop/ILS10/shell script.txt'
+   12  '/c/Users/Handy Claude/Desktop/ILS10/shell script.txt'
+   13  '/c/Users/Handy Claude/Desktop/ILS10/shell script.txt'
+   14  '/c/Users/Handy Claude/Desktop/ILS10/shell script.txt'
+   15  '/c/Users/Handy Claude/Desktop/ILS10/shellscript.txt'
+   16  '/c/Users/Handy Claude/Desktop/ILS10/shellscript.txt'
+   17  cd Desktop
+   18  cd Desktop
+   19  cd ILS10
+   20  ls
+   21  cd shellscript
+   22  x=1
+   23  while [$x -le 10]; do   python ILS_COORIGIDO.py;   x=$(( $x + 1 )); done
+   24  python testes.py
+   25  python tempo.py
+   26  x=1
+   27  while [$x -le 10]; do   python ILS_COORIGIDO.py;   x=$(( $x + 1 )); done
+   28  python testes.py
+   29  python tempo.py
+   30  cd Desktop
+   31  cd ILS15
+   32  ls
+   33  cd Desktop
+   34  ls
+   35  cd Desktop
+   36  cd ILS10
+   37  ls
+   38  python3 new_ILS.py
+   39  python new_ILS.py
+   40  python new_ILS.py
+   41  python3 new_ILS.py
+   42  cd Desktop/
+   43  cd Curso_Git/
+   44  git log
+   45  cd Desktop/
+   46  cd Curso_Git/
+   47  git log
+   48  git log
+   49  cd Desktop/
+   50  cd Curso_Git/
+   51  git log
+   52  git log --pretty=oneline
+   53  git log --stat
+   54  git log -p
+   55  git log --pretty=oneline -2
+   56  git log --pretty=oneline -10
+   57  git log --since=2.minutes
+   58  git log --since=20.minutes
+   59  git log --since=30.minutes
+   60  git log --since=3.hours
+   61  git log --since=6.hours
+   62  git log --author='Handy Milliance'
+   63  git status
+   64  touch teste
+   65  git add teste
+   66  git status
+   67  git commit -m 'Commit de teste'
+   68  git log
+   69  git reset --soft HEAD~
+   70  git log
+   71  git status
+   72  git commit -m 'Commit de teste'
+   73  git log
+   74  git reset --hard HEAD~
+   75  GIT LOG
+   76  git log
+   77  git status
+   78  git log --pretty=online
+   79  git log --pretty=oneline
+   80  git checkout HEAD~~
+   81  git status
+   82  git og
+   83  git log
+   84  ls
+   85  git checkout master
+   86  git log
+   87  git checkout HEAD~2
+   88  git log
+   89  git checkout HEAD~
+   90  git checkout master
+   91  clear
+   92  mkdir .vscode
+   93  touch conf.txt
+   94  mv conf.txt .vscode/
+   95  ls .vscode/
+   96  ls
+   97  ls -a
+   98  git status
+   99  echo '.vscode/' > .gitignore
+  100  git status
+  101  touch pessoal.conf
+  102  git status
+  103  echo 'pessoal.conf' >> .gitignore
+  104  git status
+  105  git add .gitignore
+  106  git commit -m 'Adicionado arquivo .gitignore'
+  107  history > Aula_4.txt
